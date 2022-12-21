@@ -1,0 +1,18 @@
+{
+    "maintenance": false,
+    "maintenance_message": "El servidor esta en mantenimieto.<br>Vuelva a intentarlo más tarde.",
+    "online": false,
+    "client_id": "",
+    "game_version": "1.12.2",
+    "modde": true,
+    "verify": false,
+    "java": true,
+    "game_args": [],
+    "dataDirectory": "apocalipcraft",
+    "ignored": ["crash-reports", "logs", "resourcepacks", "resources", "saves", "shaderpacks", "options.txt", "optionsof.txt"],
+    "status": {
+        "nameServer": "Apocalipcraft",
+        "ip": "65.108.199.248",
+        "port": 18676
+    }
+}
